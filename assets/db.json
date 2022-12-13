@@ -1,82 +1,64 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "jksdkjsdv",
-            "age": 21341,
-            "gender":"male",
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 2,
-            "name": "jksdkjsdv",
-            "age": 21341,
-            "gender":"male",
-
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 3,
-            "name": "jksdkjsdv",
-            "age": 21341,
-            "gender":"male",
-
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 4,
-            "name": "jksdkjsdv",
-            "age": 21341,
-            "gender":"male",
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 5,
-            "name": "jksdkjsdv",
-            "age": 21341,
-            "gender":"male",
-
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 6,
-            "name": "jksdkjsdv",
-            "age": 21341,
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 7,
-            "name": "jksdkjsdv",
-            "age": 21341,
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 8,
-            "name": "jksdkjsdv",
-            "age": 21341,
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 9,
-            "surname": "jksdkjsdv",
-            "gender": 21341,
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        },
-        {
-            "id": 10,
-            "surname": "jksdkjsdv",
-            "gender": 21341,
-            "title": "sdgvnsdkfng",
-            "story": "sjdkfvjsdnj"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "jksdkjsdv",
+      "age": 21341,
+      "gender": "male",
+      "title": "sdgvnsdkfng",
+      "story": "sjdkfvjsdnj"
+    },
+    {
+      "id": 2,
+      "name": "jksdkjsdv",
+      "age": 21341,
+      "gender": "male",
+      "title": "sdgvnsdkfng",
+      "story": "sjdkfvjsdnj"
+    },
+    {
+      "id": 3,
+      "name": "jksdkjsdv",
+      "age": 21341,
+      "gender": "male",
+      "title": "sdgvnsdkfng",
+      "story": "sjdkfvjsdnj"
+    },
+    {
+      "id": 15,
+      "name": "vsdvsdv",
+      "surname": "sdv",
+      "gender": "1",
+      "title": "sdvsdv",
+      "story": "sdvsd"
+    },
+    {
+      "id": 22,
+      "name": "aa",
+      "surname": "bb",
+      "gender": "1",
+      "title": "cc",
+      "story": "dd"
+    },
+    {
+      "id": 11,
+      "name": "sdvs",
+      "surname": "vdsv",
+      "gender": "1",
+      "title": "sdvs",
+      "story": "dsvds"
+    },
+    {
+      "id": 47,
+      "name": "vb c",
+      "surname": " cv ",
+      "gender": {
+        "0": {},
+        "1": {},
+        "2": {}
+      },
+      "title": "cv cv",
+      "story": "bcvbcvb"
+    }
+  ]
 }
